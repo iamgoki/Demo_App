@@ -1,0 +1,1186 @@
+{
+  "data": [
+      {
+          "id": 1,
+          "Name": "The Strawhat Pirates",
+          "Members": [
+              {
+                  "Name": "Monkey.D.Luffy",
+                  "image": "characters/luffy.png",
+                  "Description":"Monkey D. Luffy, also known as Straw Hat Luffy and commonly as Straw Hat, is the founder and captain of the increasingly infamous and powerful Straw Hat Pirates, as well as the most powerful of its top fighters. He desires to find the legendary treasure left behind by the late Gol D. Roger and thereby become the Pirate King, which would help facilitate an unknown dream of his that he has told only to Shanks, his brothers, and crew. He believes that being the Pirate King means having the most freedom in the world.",
+                  "Role": "Pirate Captain",
+                  "Origin": "East Blue(Goa Kingdom)",
+                  "Bounty":"3,000,000,000",
+                  "Devil Fruit": "Gum-Gum Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Rubber Human",
+                  "Haki":"Observation Haki, Armament Haki, Conqueror's Haki"
+
+              },
+              {
+                  "Name": "Roronoa Zoro",
+                  "image": "characters/zoro.png",
+                  "Description":"Roronoa Zoro, also known as Pirate Hunter Zoro, is the combatant of the Straw Hat Pirates, one of their two swordsmen, one of the Senior Officers of the Straw Hat Grand Fleet, and is publicly recognized as the right-hand man of his crew's captain Monkey D. Luffy. Formerly a bounty hunter, he is the second member of Luffy's crew and the first to join it, doing so in the Romance Dawn Arc.",
+                  "Role":"Swordsman",
+                  "Origin":"East Blue",
+                  "Bounty":"1,111,000,000",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Haki User",
+                  "Haki":"Observation Haki, Armament Haki, Conqueror's Haki"
+              },
+              {
+                  "Name": "Black Leg Sanji",
+                  "image": "characters/sanji.png",
+                  "Description":"Black Leg Sanji, born as Vinsmoke Sanji, is the cook of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the fifth member of the crew and the fourth to join, doing so at the end of the Baratie Arc.",
+                  "Role":"Cook",
+                  "Origin":"North Blue",
+                  "Bounty":"1,032,000,000",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+
+              },
+              {
+                  "Name": "Nami",
+                  "image": "characters/nami.png",
+                  "Description":"Cat Burglar Nami is the navigator of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. She is the third member of the crew and the second to join, doing so during the Orange Town Arc. She is the adoptive sister of Nojiko after the two were orphaned and taken in by Bell-mère.",
+                  "Role":"Navigator",
+                  "Origin":"East Blue(Conomi Islands)",
+                  "Bounty":"366,000,000",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Control Weather",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "God Usopp",
+                  "image": "characters/usopp.png",
+                  "Description":"God Usopp is the sniper of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the fourth member of the crew and the third to join, doing so at the end of the Syrup Village Arc. Although he left the crew during the Water 7 Arc, he rejoined at the end of the Post-Enies Lobby Arc.",
+                  "Role":"Sniper",
+                  "Origin":"East Blue(Gecko Islands)",
+                  "Bounty":"500,000,000",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"God level Sniper",
+                  "Haki":"Observation Haki"
+              },
+              {
+                  "Name": "Doctor Chopper",
+                  "image": "characters/chopper.png",
+                  "Description":"Tony Tony Chopper, also known as Cotton Candy Lover Chopper, is the doctor of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the sixth member of the crew and the fifth to join, doing so at the end of the Drum Island Arc. He was temporarily forced to join the Foxy Pirates during the Long Ring Long Land Arc, but was quickly returned to Luffy's crew.",
+                  "Role":"Doctor",
+                  "Origin":"Grand Line (Drum Islands)",
+                  "Bounty":"1,000",
+                  "Devil Fruit":"Human-Human Fruit",
+                  "Type":"Zoan Type",
+                  "Ability":"Best Doctor",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Nico Robin",
+                  "image": "characters/robin.png",
+                  "Description":"Nico Robin, also known by her epithet Devil Child and the Light of the Revolution, is the archaeologist of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. She is the seventh member of the crew and the sixth to join, doing so at the end of the Arabasta Arc. She temporarily left the crew during the Water 7 Arc but rejoined during the Enies Lobby Arc.",
+                  "Role":"Archaeologist",
+                  "Origin":"West Blue (Ohara Islands)",
+                  "Bounty":"930,000,000",
+                  "Devil Fruit":"Flower-Flower Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Flower Bloom",
+                  "Haki":"No"
+
+              },
+              {
+                  "Name": "Cyborg Franky",
+                  "image": "characters/franky.png",
+                  "Description":"Iron Man Franky is the shipwright of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the crew's eighth member and the seventh to join, doing so at the end of the Post-Enies Lobby Arc.",
+                  "Role":"Shipwright",
+                  "Origin":"South Blue (Water 7)",
+                  "Bounty":"394,000,000",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Cool Robot",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Soul King Brook",
+                  "image": "characters/brook.png",
+                  "Description":"Soul King Brook is the musician of the Straw Hat Pirates, one of their two swordsmen and one of the Senior Officers of the Straw Hat Grand Fleet. He is the ninth member of the crew and the eighth to join, doing so at the end of the Thriller Bark Arc.",
+                  "Role":"Musician",
+                  "Origin":"West Blue",
+                  "Bounty":"383,000,000",
+                  "Devil Fruit":"Revive-Revive Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Dead Man",
+                  "Haki":"No"
+
+              },
+              {
+                  "Name": "FishMan Jinbe",
+                  "image": "characters/jinbe.png",
+                  "Description":"Knight of the Sea Jinbe is the helmsman of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the tenth member of the crew and the ninth to join, doing so during the Wano Country Arc.",
+                  "Role":"Fishman",
+                  "Origin":"Grand Line (Fish-Man Island)",
+                  "Bounty":"1,100,000,000",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Haki User,Fishman Karate",
+                  "Haki":"Observation Haki, Armament Haki"
+              }
+          ]
+      },
+      {
+          "id": 2,
+          "Name": "The Whitebeard Pirates",
+          "Members": [
+              {
+                  "Name": "Edward Newgate (White Beard)",
+                  "image": "characters/white.png",
+                  "Description":"Edward Newgate, more commonly known as Whitebeard, was the captain of the Whitebeard Pirates and was widely known as the Strongest Man in the World and, after Gol D. Roger's death, the Man Closest to One Piece.",
+                  "Role":"Emperor (Yonko)",
+                  "Origin":"Grand Line",
+                  "Bounty":"5,046,000,000",
+                  "Devil Fruit":"Tremor-Tremor Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"One of the strongest Emperor",
+                  "Haki":"Observation Haki, Armament Haki, Conqueror's Haki"
+              },
+              {
+                  "Name": "Marco (1st Division)",
+                  "image": "characters/marco.png",
+                  "Description":"Marco the Phoenix is the former 1st division commander of the Whitebeard Pirates. Once starting out as an apprentice on the crew, he had come to be Whitebeard's closest confidant and right-hand man. After his captain's death, Marco assumed leadership of the Whitebeard Pirates until the crew's disbandment following the Payback War. Following the Raid on Onigashima during the Wano Country Arc, Marco retired from piracy, settling down on Sphinx Island and returning to his duties as a doctor.",
+                  "Role":"1st Divosion Commander (Whitebeard Pirates)",
+                  "Origin":"Grand Line",
+                  "Bounty":"1,374,000,000",
+                  "Devil Fruit":"Bird-Bird Fruit",
+                  "Type":"Mythical Zoan",
+                  "Ability":"Doctor",
+                  "Haki":"Observation Haki, Armament Haki    "
+              },
+              {
+                  "Name": "Kozuki Oden (Former 2nd Division)",
+                  "image": "characters/oden.png",
+                  "Description":"Kozuki Oden was the daimyo of Kuri in Wano Country and the son of the former shogun Kozuki Sukiyaki, being a member of the Kozuki Family. He was the husband of Kozuki Toki and the father of Momonosuke and Hiyori. Additionally, he was the leader of a group of legendary and powerful samurai known as the Nine Red Scabbards, with all of them serving as his retainers and most trusted allies.",
+                  "Role":"Former 2nd Division Commander (Whitebeard Pirates)",
+                  "Origin":"Grand Line (Wano Kingdom)",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Samurai",
+                  "Haki":"Observation Haki, Armament Haki, Conqueror's Haki"
+              },
+              {
+                  "Name": "Portgas.D.Ace (2nd Division)",
+                  "image": "characters/ace.png",
+                  "Description":"Portgas D. Ace, born as Gol D. Ace and nicknamed Fire Fist Ace, was the sworn older brother of Luffy and Sabo, and the biological son of the late Pirate King, Gol D. Roger, and Portgas D. Rouge. Ace was adopted by Monkey D. Garp, as had been requested by Roger before his execution. Ace was the 2nd division commander of the Whitebeard Pirates. and one-time captain of the Spade Pirates.",
+                  "Role":"2nd Division Commander (Whitebeard Pirates),Son of Gol.D.Roger",
+                  "Origin":"south Blue",
+                  "Bounty":"550,000,000",
+                  "Devil Fruit":"Flame-Flame Fruit",
+                  "Type":"Logia",
+                  "Ability":"Fire Fist",
+                  "Haki":"Observation Haki,Armament Haki,Conqueror's Haki"
+              },
+              {
+                  "Name": "Jozu (3rd Division)",
+                  "image": "characters/jozu.png",
+                  "Description":"Diamond Jozu is the former 3rd division commander of the Whitebeard Pirates, serving as one of the crew's most prominent members.",
+                  "Role":"3rd Division Commander (Whitebeard Pirates)",
+                  "Origin":"West Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"Twinkle-Twinkle Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Diamond Man",
+                  "Haki":"Observation Haki,Armament Haki"
+              },
+              {
+                  "Name": "Thatch (4th Division)",
+                  "image": "characters/thatch.png",
+                  "Description":"Thatch was the commander of the 4th division as well as the culinary chef of the Whitebeard Pirates. He was murdered by Marshall D. Teach prior to the main storyline.",
+                  "Role":"4th Division Commander (Whitebeard Pirates)",
+                  "Origin":"North Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Swordsman",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Vista (5th Division)",
+                  "image": "characters/vista.png",
+                  "Description":"Vista of the Flower Swords is the former 5th division commander of the Whitebeard Pirates. He is one of the most prominent members of his crew.",
+                  "Role":"5th Division Commander (Whitebeard Pirates)",
+                  "Origin":"Noth Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Swordsman",
+                  "Haki":"Observation Haki, Armament Haki"
+              }
+          ]
+      },
+      {
+          "id": 3,
+          "Name": "The Bigmom Pirates",
+          "Members": [
+              {
+                  "Name": "Charlotte Linlin (Big Mom)",
+                  "image": "characters/bigmom.png",
+                  "Description":"Charlotte Linlin, better known as Big Mom, is the captain of the Big Mom Pirates and was formerly one of the Four Emperors ruling over the New World, as the only female member of that group. She is also the matriarch of the very large Charlotte Family, whose many children make up the infrastructure of her crew. She is also the creator of the unique race of creatures known as Homies, who mainly inhabit all of Totto Land, and happily serve her. Big Mom possesses three special homies, Napoleon, Prometheus, and Zeus, but unhappy with Zeus' continued failures, Big Mom decided to disown and replace him with a new Homie named Hera.",
+                  "Role":"Emperor (Yonko),Big mom Pirates Captian",
+                  "Origin":"Grand Line" ,
+                  "Bounty":"4,388,000,000",
+                  "Devil Fruit":"Soul-Soul Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"One of the strongest Emperor",
+                  "Haki":"Observation Haki, Armament Haki, Conqueror's Haki"
+              },
+              {
+                  "Name": "Katakuri (Sweet Commanders)",
+                  "image": "characters/katakuri.png",
+                  "Description":"Charlotte Katakuri is the second son and third child of the Charlotte Family and the elder triplet brother of Daifuku and Oven. He is also one of the Three Sweet Commanders of the Big Mom Pirates and serves as Totto Land's Minister of Flour (粉大臣 Kona Daijin?), governing over Komugi Island.",
+                  "Role":"Sweet Commander (Bigmom Pirates)",
+                  "Origin":"Grand Line",
+                  "Bounty":"1,057,000,000",
+                  "Devil Fruit":"Mochi-Mochi Fruit",
+                  "Type":"Special Paramecia",
+                  "Ability":"Strongest Sweet Commander",
+                  "Haki":"Observation Haki, Armament Haki, Conqueror's Haki"
+              },
+              {
+                  "Name": "Smoothie (Sweet Commanders)",
+                  "image": "characters/smoothie.png",
+                  "Description":"Charlotte Smoothie is the 14th daughter and 35th child of the Charlotte Family, the older triplet sister of Citron and Cinnamon, and a longleg-human hybrid. She serves as one of the Three Sweet Commanders of the Big Mom Pirates and as Totto Land's Minister of Juice (ジュース大臣 Jūsu Daijin?), governing over 100% Island.",
+                  "Role":"Sweet Commander (Bigmom Pirates)",
+                  "Origin":"Grand Line (Totta Lands)",
+                  "Bounty":"932,000,000",
+                  "Devil Fruit":"Wring-Wring Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Strongest Sweet Commander",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Cracker (Sweet Commanders)",
+                  "image": "characters/cracker.png",
+                  "Description":"Thousand Arms Charlotte Cracker is the tenth son and 15th child of the Charlotte Family and the oldest triplet brother of Custard and Angel. He is also one of the Three Sweet Commanders of the Big Mom Pirates and serves as Totto Land's Minister of Biscuits (ビスケット大臣 Bisuketto Daijin?), governing Biscuits Island.",
+                  "Role":"Sweet Commander (Bigmom Pirates)",
+                  "Origin":"Grand Line",
+                  "Bounty":"860,000,000",
+                  "Devil Fruit":"Bis-Bis Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Biscuit Man,Strongest Sweet Commander",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Snack (Sweet Commanders)",
+                  "image": "characters/snack.png",
+                  "Description":"Charlotte Snack is the 25th son and 44th child of the Charlotte Family and the older twin brother of Bavarois. He is also an officer of the Big Mom Pirates and serves as Totto Land's Minister of Fries (フライ大臣 Furai Daijin?), governing over Potato Island.",
+                  "Role":"Sweet Commander (Bigmom Pirates)",
+                  "Origin":"Grand Line",
+                  "Bounty":"600,000,000",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Strongest Sweet Commander",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "pekoms (Combatants)",
+                  "image": "characters/pekoms.png",
+                  "Description":"Pekoms is a combatant of the Big Mom Pirates and a lion mink. He is partnered with Tamago, and both are responsible for collecting the monthly payment of sweets from Fish-Man Island in exchange for Big Mom's protection.",
+                  "Role":"Combatant (Bigmom Pirates )",
+                  "Origin":"Zou",
+                  "Bounty":"330,000,000",
+                  "Devil Fruit":"Trutle-Trutle Fruit",
+                  "Type":"Zoan",
+                  "Ability":"Bigmom's Combatant",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Knight Tamago (Combatants)",
+                  "image": "characters/tamago.png",
+                  "Description":"Baron Tamago (also known as Viscount Hiyoko and Count Niwatori in his second and third form respectively) is a knight-ranked combatant of the Big Mom Pirates, who originates from the Longleg Tribe. He and his partner Pekoms were responsible for collecting the monthly payment of sweets from Fish-Man Island in exchange for Big Mom's protection.",
+                  "Role":"Combatant (Bigmom Pirates )",
+                  "Origin":"Grand Line",
+                  "Bounty":"429,000,000",
+                  "Devil Fruit":"Egg-Egg Fruit",
+                  "Type":"Zoan",
+                  "Ability":"Bigmom's Combatant",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Rook capone Bege (Combatants)",
+                  "image": "characters/rook.png",
+                  "Description":"Capone Gang Bege is a mafia don-turned-pirate and the captain of the Fire Tank Pirates. He is also one of twelve pirates who are referred to as the Worst Generation. He and his crew came from West Blue, where Bege was one of the heads of the Five Families of the West. During the timeskip, he became a subordinate of Charlotte Linlin and married Charlotte Chiffon. The two have a son named Capone Pez. While working under the Big Mom Pirates, he held a position of a rook-ranked combatant.",
+                  "Role":"Combatant (Bigmom Pirates )",
+                  "Origin":"West Blue",
+                  "Bounty":"350,000,000",
+                  "Devil Fruit":"Castle-Castle Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Bigmom's Combatant",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Bishop Bobbin (Combatants)",
+                  "image": "characters/bishop.png",
+                  "Description":"Sweeper Bobbin is a bishop-ranked combatant of the Big Mom Pirates.",
+                  "Role":"Combatant (Bigmom Pirates )",
+                  "Origin":"Grand Line",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Bigmom's Combatant",
+                  "Haki":"No"
+              }
+          ]
+      },
+      {
+          "id": 4,
+          "Name": "The Blackbeard Pirates",
+          "Members": [
+              {
+                  "Name": "Marshall.D.Teach (Black Beard)",
+                  "image": "characters/black.png",
+                  "Description":"Marshall D. Teach, most commonly referred to by his epithet Blackbeard, is the captain-turned-admiral of the Blackbeard Pirates, and one of the Four Emperors. He is also the only known person in history to wield the powers of two Devil Fruits.",
+                  "Role":"Musician",
+                  "Origin":"West Blue",
+                  "Bounty":"383,000,000",
+                  "Devil Fruit":"Revive-Revive Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Dead Man",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Jesus Burgess",
+                  "image": "characters/jesus.png",
+                  "Description":"Soul King Brook is the musician of the Straw Hat Pirates, one of their two swordsmen and one of the Senior Officers of the Straw Hat Grand Fleet. He is the ninth member of the crew and the eighth to join, doing so at the end of the Thriller Bark Arc.",
+                  "Role":"Emperor (Yonko)",
+                  "Origin":"Grand Line",
+                  "Bounty":"3,996,000,000",
+                  "Devil Fruit":"Dark-Dark Fruit",
+                  "Type":"Logia",
+                  "Ability":"One of the strongest Emperor",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Shiryu",
+                  "image": "characters/shiryu.png",
+                  "Description":"Shiryu of the Rain is one of the Ten Titanic Captains of the Blackbeard Pirates, as captain of the Second Ship.",
+                  "Role":"One of Ten Titanic Captain",
+                  "Origin":"Grand Line" ,
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"Clear-Clear Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Swordsman",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Van Augur",
+                  "image": "characters/van.png",
+                  "Description":"Van Augur, nicknamed The Supersonic, is the sniper of the Blackbeard Pirates, as well as one of the Ten Titanic Captains and captain of the Third Ship of the crew.",
+                  "Role":"One of Ten Titanic Captain",
+                  "Origin":"East Blue",
+                  "Bounty":"64,000,000",
+                  "Devil Fruit":"Warp-Warp Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Sniper",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Avalo Pizarro",
+                  "image": "characters/avalo.png",
+                  "Description":"Avalo Pizarro, also known as the Corrupt King, was one of the criminals who was given a life sentence in Level 6 of Impel Down, as his crimes were so atrocious he had to be effectively be erased from history. Prior to his life of crime, he was once a king of a North Blue kingdom that overthrew him for his despotic ways. He has since been freed by Marshall D. Teach and has become a member of the Blackbeard Pirates.",
+                  "Role":"One of Ten Titanic Captain",
+                  "Origin":"North Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"Isle-Isle Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Corrupt King",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Laffitte",
+                  "image": "characters/laffitte.png",
+                  "Description":"Laffitte, nicknamed Demon Sheriff, is the navigator, chief of staff, one of the Ten Titanic Captains, and captain of the Fifth Ship of the Blackbeard Pirates. He is also a former West Blue policeman known for countless acts of police brutality, which resulted in his exile from that sea.",
+                  "Role":"One of Ten Titanic Captain",
+                  "Origin":"West Blue",
+                  "Bounty":"42,000,000",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"hypnotize",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Catarina Devon",
+                  "image": "characters/catarina.png",
+                  "Description":"Catarina Devon, known as the Crescent Moon Hunter, was the most dangerous female pirate ever to be imprisoned in Impel Down within the entire age of pirates. She was freed by Marshall D. Teach.",
+                  "Role":"One of Ten Titanic Captain",
+                  "Origin":"South Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"Dog-Dog Fruit",
+                  "Type":"Mythical Zoan",
+                  "Ability":"Transform into a nine-tailed fox",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Sanjuan Wolf",
+                  "image": "characters/wolf.png",
+                  "Description":"Sanjuan Wolf is an enormous giant, known as Colossal Battleship for his size, and was originally one of the legendary criminals who was given a life sentence in Level 6 of Impel Down, as his crimes were so atrocious they had to effectively be erased from history itself. He was initially mentioned briefly by Emporio Ivankov.",
+                  "Role":"One of Ten Titanic Captain",
+                  "Origin":"West Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"Huge-Huge Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Huge Man",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Vasco Shot",
+                  "image": "characters/vasco.png",
+                  "Description":"Vasco Shot, monikered Heavy Drinker, is one of the Ten Titanic Captains of the Blackbeard Pirates, as captain of its Eighth Ship. He was originally one of several legendary criminals given a life sentence on Impel Down's Level 6, before being freed by Blackbeard and joining him.",
+                  "Role":"One of Ten Titanic Captain",
+                  "Origin":"South Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"Glug-Glug Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Alcohol-based powers that are currently unknown.",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Doc Q",
+                  "image": "characters/docq.png",
+                  "Description":"Doc Q, known as Death God, is the Doctor of the Blackbeard Pirates. Ironically, he has a sick body and needs his horse, Stronger (who is just as sick as he is), to get around.",
+                  "Role":"One of Ten Titanic Captain",
+                  "Origin":"North Blue",
+                  "Bounty":"72,000,000",
+                  "Devil Fruit":"Sick-Sick Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Death God",
+                  "Haki":"No"
+              }
+          ]
+      },
+      {
+          "id": 5,
+          "Name": "The Donquixote Pirates",
+          "Members": [
+              {
+                  "Name": "Doflamingo",
+                  "image": "characters/doffy.png",
+                  "Description":"Donquixote Doflamingo, nicknamed Heavenly Yaksha, is the captain of the Donquixote Pirates. Prior to his imprisonment, he was a member of the Seven Warlords of the Sea with a frozen bounty of 340,000,000, as well as the most influential underworld broker under the codename Joker. He is also a former World Noble, descended from the Donquixote Family.",
+                  "Role":"Donquixote Pirates Captain,One of the Warlord,Under world Broker",
+                  "Origin":"Red Line (Mary Geoise)",
+                  "Bounty":"340,000,000",
+                  "Devil Fruit":"String-STring Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Manipulate Human,String Attacks",
+                  "Haki":"Observation Haki, Armament Haki, Conqueror's Haki"
+              },
+              {
+                  "Name": "Trebol",
+                  "image": "characters/trebol.png",
+                  "Description":"Trebol is one of the top three officers of the Donquixote Pirates, acting as a Staff Officer. He occupies the Club seat of the Donquixote Family and is the leader of the crew's Trebol Army subdivision.",
+                  "Role":"Pirate Executive Officer,Sugar's Body Guard",
+                  "Origin":"North Blue",
+                  "Bounty":"99,000,000",
+                  "Devil Fruit":"Stick-Stick Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Sticky Man",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Diamante",
+                  "image": "characters/diamante.png",
+                  "Description":"Diamante is one of the top three officers of the Donquixote Pirates. He occupies the Diamond seat of the Donquixote Family and is the leader of the crew's Diamante Army subdivision.",
+                  "Role":"Pirate Executive Officer",
+                  "Origin":"North Blue",
+                  "Bounty":"99,000,000",
+                  "Devil Fruit":"Ripple-Ripple Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Bestow the properties of fabric onto his own body",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Pica",
+                  "image": "characters/pica.png",
+                  "Description":"Pica is one of the top three officers of the Donquixote Pirates. He occupies the Spade seat of the Donquixote Family and is the leader of the crew's Pica Army subdivision. Due to his actions and role, he is one of the major antagonists in the Dressrosa Arc.",
+                  "Role":"Pirate Executive Officer",
+                  "Origin":"North Blue",
+                  "Bounty":"99,000,000",
+                  "Devil Fruit":"Stone-Stone Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Stone Man",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Vergo",
+                  "image": "characters/vergo.png",
+                  "Description":"Demon Bamboo Vergo was one of the four elite officers and the first to occupy the Heart seat of the Donquixote Pirates under the codename Corazon.",
+                  "Role":"Pirate Executive Officer",
+                  "Origin":"North Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"Paramecia",
+                  "Ability":"Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Corazon",
+                  "image": "characters/corazon.png",
+                  "Description":"Donquixote Rosinante was formerly a World Noble of the Donquixote Family descent, as the second son of Donquixote Homing and the younger brother of Donquixote Doflamingo. After his family lost their status as Celestial Dragons and became pariahs, Rosinante became an Elite Officer of the Donquixote Pirates, serving Doflamingo under the codename Corazon.",
+                  "Role":"Pirate Executive Officer,Doflamingo's Brother",
+                  "Origin":"Red Line (Mary Geoise)",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"Clam-Clam Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Clam Man",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Suger",
+                  "image": "characters/sugar.png",
+                  "Description":"Sugar is a special officer of the Donquixote Pirates' Trebol Army. She was one of the most integral components of Doflamingo's plan in keeping Dressrosa in line, as any dissenters were turned into toys by her Hobi Hobi no Mi powers. She is also the younger sister of Monet. Due to her actions and role, she is a supporting antagonist during the Dressrosa Arc.",
+                  "Role":"Pirate Special Officer,Trebol Army",
+                  "Origin":"North Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"Hobby-Hobby Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"change human into toy",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Giolla",
+                  "image": "characters/giolla.png",
+                  "Description":"Giolla is an officer of the Donquixote Pirates' Trebol Army.",
+                  "Role":"Trebol Army",
+                  "Origin":"North Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"Art-Art Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Change human into Art",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Violet",
+                  "image": "characters/violet.png",
+                  "Description":"Viola is the second daughter of the Riku Family and the current crown princess of Dressrosa after her niece Rebecca abdicated her position. She is the younger sister of the late Scarlett.",
+                  "Role":"Trebol Army,Princess of Dressrosa",
+                  "Origin":"Grand Line (Dressrosa Kingdom)",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"Glare-Glare     Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"See through solid objects and over vast distances",
+                  "Haki":"No"
+
+              },
+              {
+                  "Name": "Lao G",
+                  "image": "characters/laog.png",
+                  "Description":"Lao G is an officer of the Donquixote Pirates' Diamante Army.",
+                  "Role":"Diamante Army",
+                  "Origin":"North Blue",
+                  "Bounty":"61,000,000",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Fishman Karate",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Senor Pink",
+                  "image": "characters/pink.png",
+                  "Description":"Senor Pink is an assassin and officer of the Donquixote Pirates' Diamante Army. He was also the husband of Russian and the father of Gimlet.",
+                  "Role":"Diamante Army",
+                  "Origin":"North Blue",
+                  "Bounty":"58,000,000",
+                  "Devil Fruit":"Swim-Swim Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"swim through solid ground and through walls",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Machvise",
+                  "image": "characters/machvise.png",
+                  "Description":"Machvise is an officer of the Donquixote Pirates' Diamante Army.",
+                  "Role":"Diamante Army",
+                  "Origin":"North Blue",
+                  "Bounty":"11,000,000",
+                  "Devil Fruit":"Ton-Ton Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Drastically increase his own body weight",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Dellinger",
+                  "image": "characters/dellinger.png",
+                  "Description":"Dellinger is a combatant and an officer of the Donquixote Pirates' Diamante Army who is a hybrid between a human and a fighting fish fish-man.",
+                  "Role":"Diamante Army",
+                  "Origin":"North Blue",
+                  "Bounty":"15  ,000,000",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Fighting Fishman",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Gladius",
+                  "image": "characters/gladius.png",
+                  "Description":"Gladius is an officer of the Donquixote Pirates' Pica Army.",
+                  "Role":"Pica Army",
+                  "Origin":"North Blue",
+                  "Bounty":"31,000,000",
+                  "Devil Fruit":"Pop-Pop Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Make his own body expand and rupture",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Buffalo",
+                  "image": "characters/buffalo.png",
+                  "Description":"Buffalo is a combatant and an assassin of the Donquixote Pirates and an officer of the Pica Army. His real name is yet to be revealed, as Buffalo is a codename given to him upon joining the Donquixote Pirates.",
+                  "Role":"Pica Army",
+                  "Origin":"North Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"Spin-Spin Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Make any part of his body spin around like a propeller.",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Baby 5",
+                  "image": "characters/baby5.png",
+                  "Description":"Baby 5 is a pirate and the wife of Sai, the Happo Navy's 13th leader. She is a former servant and assassin of the Donquixote Pirates, serving as an officer in the Pica Army. Her real name has not been revealed, as Baby 5 is a codename given to her upon joining the Donquixote Pirates.",
+                  "Role":"Pica Army",
+                  "Origin":"North Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"Arms-Arms Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"transform her entire body into any kind of weapon",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Monet",
+                  "image": "characters/monet.png",
+                  "Description":"Monet was a scout and assistant for Caesar Clown and his underlings in the research facility on Punk Hazard. She had her original human arms and legs replaced with bird limbs, giving her an appearance resembling a harpy. She was, in truth, a member and officer of the Donquixote Pirates and was sent as a deep cover agent by Doflamingo.",
+                  "Role":"One of the officer in Donquixote Pirates",
+                  "Origin":"North Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"Snow-Snow Fruit",
+                  "Type":"Logia",
+                  "Ability":"Create, control, and transform her body into snow.",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Bellamy",
+                  "image": "characters/bellamy.png",
+                  "Description":"Bellamy the Hyena is the former captain of the Bellamy Pirates, and a former member of the Donquixote Pirates. After the Dressrosa Arc, he retired from piracy and became a dyer.",
+                  "Role":"One of the officer in Donquixote Pirates,Captain of Bellamy Pirates",
+                  "Origin":"Grand Line (Dressrosa Kingdom)",
+                  "Bounty":"195,000,000",
+                  "Devil Fruit":"Spring-Spring Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"transform his body and limbs into springs",
+                  "Haki":"Observation Haki, Armament Haki"   
+              },
+              {
+                  "Name": "Ceaser Clown",
+                  "image": "characters/ceaser.png",
+                  "Description":"Caesar Clown, who was referred to as Master by his subordinates, is a scientist and a former colleague of Vegapunk; both on the research team MADS and with the World Government. He is the primary antagonist of the Punk Hazard Arc, and the first main antagonist the Straw Hats face in the New World. Caesar is the leading expert on chemical weapons of mass destruction and has a bounty of 300,000,000 on his head",
+                  "Role":"Devil Scientist,Donquixote Subordinates",
+                  "Origin":"Grand Line",
+                  "Bounty":"300,000,000",
+                  "Devil Fruit":"Gas-Gas Fruit",
+                  "Type":"Logia",
+                  "Ability":"Ability to create, control, and transform his body into various chemical gases",
+                  "Haki":"No"
+              }
+          ]
+      },
+      {
+          "id": 6,
+          "Name": "The Heart Pirates",
+          "Members": [
+              {
+                  "Name": "Trafalgar.D.Water Law",
+                  "image": "characters/law.png",
+                  "Description":"Trafalgar D. Water Law, more commonly known as just Trafalgar Law (トラファルガー・ロー Torafarugā Rō?) and by his epithet as the Surgeon of Death, is a pirate from North Blue and the captain and doctor of the Heart Pirates. He is one of twelve pirates who are referred to as the Worst Generation. He became one of the Seven Warlords of the Sea during the timeskip, but his position was revoked for allying with the Straw Hat Pirates. Law, like many other pirates, dreams of finding the One Piece, while also desiring to know the purpose of the Will of D.",
+                  "Role":"Heart Pirates Captain,",
+                  "Origin":"North Blue",
+                  "Bounty":"3,000,000,000",
+                  "Devil Fruit":"Op-Op Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Surgeon of Death",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Bepo",
+                  "image": "characters/bepo.png",
+                  "Description":"Bepo is a polar bear mink and the navigator of the Heart Pirates. He is the younger brother of the late Nox Pirate Zepo.",
+                  "Role":"Navigator (Heart Pirates)",
+                  "Origin":"Zou",
+                  "Bounty":"500",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Use Electro and transform into his Sulong form when gazing at the full moon like every other mink.",
+                  "Haki":"No"
+
+              },
+              {
+                  "Name": "Penguin & Shachi",
+                  "image": "characters/penguin.png",    
+                  "Description":"Penguin is a member of the Heart Pirates and Shachi is a member of the Heart Pirates.",
+                  "Role":"Members of the Heart Pirates",
+                  "Origin":"North Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Experienced Swimmer",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Jean Bart",
+                  "image": "characters/bart.png",
+                  "Description":"Jean Bart is a pirate who was originally introduced as Saint Rosward's slave, being part of his Pirate Captain Collection. He currently serves under Trafalgar Law as a member of the Heart Pirates after being freed from the World Noble.",
+                  "Role":"Members of the Heart Pirates",
+                  "Origin":"Unknown",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Jean Bart is an immensely strong man capable of breaking a bridge with a single punch.",
+                  "Haki":"No"
+              }
+          ]
+      },
+      {
+          "id": 7,
+          "Name": "The Red Haired Pirates",
+          "Members": [
+              {
+                  "Name": "Shanks",
+                  "image": "characters/shanks.png",
+                  "Description":"Red-Haired Shanks, commonly known as just Red Hair, is the chief of the Red Hair Pirates and one of the Four Emperors that rule over the New World.",
+                  "Role":"Emperor (Yonko),Red Haired Pirates Captain",
+                  "Origin":"West Blue",
+                  "Bounty":"4,048,900,000",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"One of the strongest Emperor,Haki User",
+                  "Haki":"Observation Haki, Armament Haki, Conqueror's Haki"
+              },
+              {
+                  "Name": "Benn Beckman",
+                  "image": "characters/benn.png",
+                  "Description":"Benn Beckman, is the first mate of the Red Hair Pirates.",
+                  "Role":"First mate of the Red Hair Pirates",
+                  "Origin":"North Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Haki User",
+                  "Haki":"Armament Haki"
+              },
+              {
+                  "Name": "Lucky Roux",
+                  "image": "characters/roux.png",
+                  "Description":"Lucky Roux is one of the Senior Officers, a combatant, and the cook of the Red Hair Pirates. He is also the one who found the Gomu Gomu no Mi which was eaten by Monkey D. Luffy.",
+                  "Role":"Seinor Officer in Red Haired Pirates",
+                  "Origin":"South Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Haki User",
+                  "Haki":"Armament Haki"
+              },
+              {
+                  "Name": "Yasopp",
+                  "image": "characters/yasopp.png",
+                  "Description":"Yasopp,[6] known as Chaser, is one of the Senior Officers and the sniper of the Red Hair Pirates. He is also the father of Usopp and the widower of Banchina.",
+                  "Role":"Seinor Officer in Red Haired Pirates and Sniper",
+                  "Origin":"East Blue(Gecko Islands)",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Sniper,Haki User",
+                  "Haki":"Observation Haki"
+              },
+              {
+                  "Name": "Limejuice",
+                  "image": "characters/lime.png",
+                  "Description":"Limejuice is one of the Senior Officers of the Red Hair Pirates.",
+                  "Role":"Seinor Officer in Red Haired Pirates",
+                  "Origin":"Unknown",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"He is able to jump in mid-air similar to Sky Walk and Geppo.",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Bonk Punch",
+                  "image": "characters/bonk.png",
+                  "Description":"Bonk Punch is one of the Senior Officers and musicians of the Red Hair Pirates.",
+                  "Role":"Seinor Officer in Red Haired Pirates,Musician",
+                  "Origin":"Unknown",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Bonk Punch is capable of charging up and unleashing devastating punches or counterpunches on his foes. He lets Monster deal with weaker enemies while he readies his attack.",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Building Snake",
+                  "image": "characters/snake.png",
+                  "Description":"Building Snake is one of the Senior Officers and the navigator of the Red Hair Pirates.",
+                  "Role":"Seinor Officer in Red Haired Pirates,Navigator",
+                  "Origin":"Unknown",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Snake wields two swords, which he juggles around while performing his acrobatic moves and Navigator",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Hongo",
+                  "image": "characters/hongo.png",
+                  "Description":"Hongo is the one of the Senior Officers and the doctor of the Red Hair Pirates.",
+                  "Role":"Seinor Officer in Red Haired Pirates,Doctor",
+                  "Origin":"Unknown",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"As a doctor, Hongo has great knowledge of medical practices. He is also very familiar with weapons and can dismantle them near instantaneously.",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Gab",
+                  "image": "characters/gab.png",
+                  "Description":"Howling Gab is one of the Senior Officers of the Red Hair Pirates.",
+                  "Role":"Seinor Officer in Red Haired Pirates",
+                  "Origin":"Unknown",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"He is capable of generating air blades from his mouth through a roar-like technique. He can also use paralysis.",
+                  "Haki":"No"
+              }
+          ]
+      },
+      {
+          "id": 8,
+          "Name": "The Roger Pirates",
+          "Members": [
+              {
+                  "Name": "Gol.D.Roger",
+                  "image": "characters/roger.png",
+                  "Description":"Gol D. Roger, more commonly known as Gold Roger, was a legendary pirate who, as captain of the Roger Pirates, held the title of Pirate King and owned the legendary treasure known as One Piece. He was also the lover of Portgas D. Rouge and the biological father of Portgas D. Ace.",
+                  "Role":"King of the Pirates",
+                  "Origin":"East Blue (Loguetown)",
+                  "Bounty":"5,564,800,000",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"King Of the Pirates and Haki User",
+                  "Haki":"Observation Haki, Armament Haki, Conqueror's Haki"
+              },
+              {
+                  "Name": "Sliver Rayleigh",
+                  "image": "characters/reyleigh.png",
+                  "Description":"Silvers Rayleigh, also known as the Dark King, is an extremely powerful and famous retired pirate who formerly served as the first mate of the legendary Roger Pirates, being known as the Right Hand of the Pirate King. He is one of the major figures, along with Whitebeard, Shiki, Monkey D. Garp, Sengoku, Tsuru and Kong from the times when Gol D. Roger, the Pirate King, was still alive.",
+                  "Role":"Right Hand of Pirate King",
+                  "Origin":"Sabaody Archipelago",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Swordsman,Haki User",
+                  "Haki":"Observation Haki, Armament Haki, Conqueror's Haki"
+              },
+              {
+                  "Name": "Scopper Gaban",
+                  "image": "characters/gaban.jpg",
+                  "Description":"Scopper Gaban is a former member of the Roger Pirates.",
+                  "Role":"Seinor Officer in Roger Pirates",
+                  "Origin":"Unknown",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Gaban wields a pair of axes as his main weapon. The axes are single bit, with a large axe head and a plain handle.",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Crocus",
+                  "image": "characters/crocus.png",
+                  "Description":"Crocus is a doctor and the caretaker of the whale Laboon as well as the overseer of the Twin Cape Lighthouse that guides ships coming down from Reverse Mountain into the Grand Line.",
+                  "Role":"Seinor Officer in Roger Pirates,Doctor",
+                  "Origin":"Grand Line",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Doctor and Haki User",
+                  "Haki":"Armament Haki"
+              },
+              {
+                  "Name": "Seagull Guns Nozdon",
+                  "image": "characters/nozdon.png",
+                  "Description":"Seagull Guns Nozdon is a former member of the Roger Pirates.",
+                  "Role":"Seinor Officer in Roger Pirates",
+                  "Origin":"Unknown",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Nozdon's abilities are unknown, as he has not yet been shown in combat in the canon of the manga.",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "SunBell",
+                  "image": "characters/sunbell.png",
+                  "Description":"Sunbell is a former member of the Roger Pirates.",
+                  "Role":"Seinor Officer in Roger Pirates, Fishman",
+                  "Origin":"Unknown",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"As a fish-man, Sunbell possesses ten times the physical strength of an average human and is presumably an adept swimmer.",
+                  "Haki":"No"
+              },
+              {
+                "Name": "Kozuki Oden ",
+                "image": "characters/oden.png",
+                "Description":"Kozuki Oden was the daimyo of Kuri in Wano Country and the son of the former shogun Kozuki Sukiyaki, being a member of the Kozuki Family. He was the husband of Kozuki Toki and the father of Momonosuke and Hiyori. Additionally, he was the leader of a group of legendary and powerful samurai known as the Nine Red Scabbards, with all of them serving as his retainers and most trusted allies.",
+                "Role":"Seinor Officer in Roger Pirates,Samurai",
+                "Origin":"Grand Line (Wano Kingdom)",
+                "Bounty":"Unknown",
+                "Devil Fruit":"No",
+                "Type":"No",
+                "Ability":"Powerful Swordsman and Samurai",
+                "Haki":"Observation Haki, Armament Haki, Conqueror's Haki"
+              },
+              {
+                  "Name": "Inuarashi",
+                  "image": "characters/inuarashi.png",
+                  "Description":"Duke Inuarashi is a canine mink and was one of the two rulers of the Mokomo Dukedom, dubbed the Ruler of Day as he formerly ruled over the Mokomo Dukedom from 6:00 AM to 6:00 PM. He and Nekomamushi serve as retainers for the Kozuki Family of Wano Country, as members of the Nine Red Scabbards.",
+                  "Role":"Apprentice in Roger Pirates",
+                  "Origin":"Mokomo Dukedom",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":" Inuarashi's strength, speed, agility, Electro, and fighting abilities are magnified,Swordsman and Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Nekomamushi",
+                  "image": "characters/nekomamushi.png",
+                  "Description":"Master Nekomamushi is a feline mink and the guardian of the Whale Forest on Zou, dubbed the Ruler of Night as he formerly ruled over the Mokomo Dukedom from 6:00 PM to 6:00 AM. He and Inuarashi serve as retainers for the Kozuki Family of Wano Country, as members of the Nine Red Scabbards.",
+                  "Role":"Apprentice in Roger Pirates",
+                  "Origin":"Mokomo Dukedom",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Swordsman,Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Buggy",
+                  "image": "characters/buggy.png",
+                  "Description":"Buggy the Star Clown is the captain of the Buggy Pirates as well as the co-leader of the Buggy and Alvida Alliance, and a former apprentice of the Roger Pirates alongside Shanks. Shortly after the Summit War of Marineford, he became a member of the Seven Warlords of the Sea and the leader of the pirate dispatch organization Buggy's Delivery. He later lost his Warlord title when the system was abolished but was then recognized as one of the Four Emperors following the downfalls of Kaidou and Big Mom and the creation of the Cross Guild, of which he is publicly recognized as the leader.",
+                  "Role":"Apprentice in Roger Pirates",
+                  "Origin":"Grand Line",
+                  "Bounty":"3,189,000,000",
+                  "Devil Fruit":"Chop-Chop Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"Split his body into pieces and reassemble them at will. This power also makes him immune to slashing attacks.",
+                  "Haki":"No"
+              }
+          ]
+      },
+      {
+          "id": 9,
+          "Name": "The Beast Pirates",
+          "Members": [
+              {
+                  "Name": "Kaidou (The Beast)",
+                  "image": "characters/kaidou.png",
+                  "Description":"Kaidou of the Beasts, renowned as the world's Strongest Creature, is the Governor-General of the Beasts Pirates and formerly one of the Four Emperors that ruled over the New World. He is also the father of Yamato.",
+                  "Role":"Beast Pirates Captain,Emperor (Yonko)",
+                  "Origin":"Grand Line (Wano Kingdom)",
+                  "Bounty":"4,611,100,000",
+                  "Devil Fruit":"Fish-Fish Fruit",
+                  "Type":"Mythical Zoan",
+                  "Ability":"transform into a full serpentine Azure Dragon and a human-dragon hybrid at will,Haki User,One of the Strongest Emperor (Yonko)",
+                  "Haki":"Observation Haki, Armament Haki, Conqueror's Haki"
+              },
+              {
+                  "Name": "King",
+                  "image": "characters/king.png",
+                  "Description":"King the Conflagration is one of the three All-Stars of the Beasts Pirates and Kaidou's right-hand man. Born as Alber, he is a member of the near-extinct lunarian race from the Red Line, noted for their ability to create fire.",
+                  "Role":"Right Hand of Beast Pirates",
+                  "Origin":"Grand Line",
+                  "Bounty":"1,390,000,000",
+                  "Devil Fruit":"Dragon-Dragon Fruit",
+                  "Type":"Ancient Zoan",
+                  "Ability":"Pteranodon, an Ancient Zoan-type Devil Fruit that allows him to transform into a full pteranodon and a pteranodon hybrid at will. When transformed, he is more clad in flames than usual and gains the ability to fly at extremely high speeds.And,Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Queen",
+                  "image": "characters/queen.png",
+                  "Description":"Queen the Plague is an All-Star of the Beasts Pirates as one of Kaidou's three closest confidants. He formerly served as the de-facto ruler of Udon, a region in Wano Country.",
+                  "Role":"All Star,Scientist",
+                  "Origin":"Grand Line",
+                  "Bounty":"1,320,000,000",
+                  "Devil Fruit":"Dragon-Dragon Fruit",
+                  "Type":"Ancient Zoan",
+                  "Ability":"Brachiosaurus, an Ancient Zoan-type Devil Fruit that allows him to transform into a full brachiosaurus and a human-brachiosaurus hybrid at will. When fully transformed, Queen becomes much bigger and towers over even large humans like Big Mom, who stands over 8 meters tall.Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Jack",
+                  "image": "characters/jack.png",
+                  "Description":"Jack the Drought is an All-Star of the Beasts Pirates as one of Kaidou's three closest confidants, and the captain of the Mammoth. He was formerly considered to be the ruler of the region of Kuri in Wano Country. He is also a giant grouper fish-man.",
+                  "Role":"All Star,Captain of Mammoth",
+                  "Origin":"Grand Line",
+                  "Bounty":"1,000,000,000",
+                  "Devil Fruit":"Elephant -Elephant Fruit",
+                  "Type":"Ancient Zoan",
+                  "Ability":"Mammoth, an Ancient Zoan-type Devil Fruit that allows him to transform into a full mammoth and a human-mammoth hybrid at will. Since he is a Devil Fruit user, he has lost the ability to swim, but because he is a fish-man, he can breathe underwater. Though, he still would not be able to move if he falls into the water.Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Page One",
+                  "image": "characters/pageone.png",
+                  "Description":"Page One is one of the Tobiroppo, the strongest Shinuchi of the Beasts Pirates. He is the younger brother of fellow Tobiroppo Ulti.",
+                  "Role":"The Strongest Shinuchi of the Beast Pirates",
+                  "Origin":"Grand Line",
+                  "Bounty":"290,000,000",
+                  "Devil Fruit":"Dragon-Dragon Fruit",
+                  "Type":"Ancient Zoan",
+                  "Ability":"Spinosaurus, an Ancient Zoan-type Devil Fruit that allows him to transform into a full spinosaurus and a human-spinosaurus hybrid at will.Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Ulti",
+                  "image": "characters/ulti.png",
+                  "Description":"Ulti is one of the Tobiroppo, the six strongest Shinuchi of the Beasts Pirates. She is the elder sister of fellow Tobiroppo Page One.",
+                  "Role":"The Strongest Shinuchi of the Beast Pirates",
+                  "Origin":"Grand Line",
+                  "Bounty":"400,000,000",
+                  "Devil Fruit":"Dragon-Dragon Fruit",
+                  "Type":"Ancient Zoan",
+                  "Ability":"Pachycephalosaurus, an Ancient Zoan-type Devil Fruit that allows her to become a full pachycephalosaurus and a human-pachycephalosaurus hybrid at will.Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Who's -Who",
+                  "image": "characters/who.png",
+                  "Description":"Who's-Who, also known as Who of the Droplets, is one of the Tobiroppo, the strongest six Shinuchi of the Beasts Pirates.",
+                  "Role":"The Strongest Shinuchi of the Beast Pirates",
+                  "Origin":"Grand Line",
+                  "Bounty":"546,000,000",
+                  "Devil Fruit":"Cat-Cat Fruit",
+                  "Type":"Ancient Zoan",
+                  "Ability":"Saber Tiger, an Ancient Zoan-type Devil Fruit that allows him to transform into a saber-toothed tiger (Smilodon) and a hybrid between a human and said animal. Who's-Who is notably large in his full Beast Form, dwarfing normal humans.Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Black Maria",
+                  "image": "characters/blackmaria.png",
+                  "Description":"Black Maria is one of the Tobiroppo, the strongest six Shinuchi of the Beasts Pirates.[5] She owns her own brothel on Onigashima near Kaidou's castle.",
+                  "Role":"The Strongest Shinuchi of the Beast Pirates",
+                  "Origin":"Grand Line",
+                  "Bounty":"480,000,000",
+                  "Devil Fruit":"Spider-Spider Fruit",
+                  "Type":"Ancient Zoan",
+                  "Ability":"Rosamygale Grauvogeli, an Ancient Zoan-type Devil Fruit that allows her to transform into a full Rosamygale grauvogeli—a prehistoric, carnivorous spider—as well as into a human-spider hybrid at will.Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Sasaki",
+                  "image": "characters/sasaki.png",
+                  "Description":"Overflowing Sasaki is a bluespine unicornfish fish-man and one of the Tobiroppo, the strongest six Shinuchi of the Beasts Pirates. He also leads the crew's Armored Division. Before joining the Beasts Pirates, he captained his own crew called the Sasaki Pirates.",
+                  "Role":"The Strongest Shinuchi of the Beast Pirates",
+                  "Origin":"Grand Line",
+                  "Bounty":"472,000,000",
+                  "Devil Fruit":"Dragon-Dragon Fruit",
+                  "Type":"Ancient Zoan",
+                  "Ability":"Triceratops, an Ancient Zoan-type Devil Fruit that allows him to transform into a triceratops, and hybrid form, at will.Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "X Drake",
+                  "image": "characters/drake.png",
+                  "Description":"Red Flag X Drake (read as Diez Drake) is the captain of the Marine Secret Special Unit SWORD. In order to go undercover as a pirate, he publicly defected from his position as rear admiral and founded the Drake Pirates. He is one of twelve pirates referred to as the Worst Generation, and prior to the two-year timeskip had a bounty of 222,000,000.",
+                  "Role":"The Strongest Shinuchi of the Beast Pirates,Captain of Drake Pirates",
+                  "Origin":"North Blue",
+                  "Bounty":"222,000,000",
+                  "Devil Fruit":"Dragon-Dragon Fruit",
+                  "Type":"Ancient Zoan",
+                  "Ability":"Allosaurus, an Ancient Zoan-type Devil Fruit[8] that allows him to transform into a full allosaurus and a human-allosaurus hybrid at will.Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Basil Hawkins",
+                  "image": "characters/basil.png",
+                  "Description":"Basil Hawkins is an infamous pirate from North Blue known as the Magician and the captain of the Hawkins Pirates. He is one of twelve pirates who are referred to as the Worst Generation. His previous known bounty amounted to 249,000,000, but after the timeskip, it was raised to 320,000,000. After encountering Kaidou, he joined the Beasts Pirates and became one of the crew's Shinuchi.",
+                  "Role":"Seinor Officer in Red Haired Pirates,Captain of Hawkin Pirates",
+                  "Origin":"North Blue",
+                  "Bounty":"320,000,000",
+                  "Devil Fruit":"Straw-Straw Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"create and manipulate straw. He can cover himself in straw-armor, create straw weapons, and make a large scarecrow-like straw effigy to aid his offense. These creations also gain nail-based weapons.Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              }
+          ]
+      },
+      {
+          "id": 10,
+          "Name": "The Kid Pirates",
+          "Members": [
+              {
+                  "Name": "Eustass Kid",
+                  "image": "characters/kid.png",
+                  "Description":"Eustass Captain Kid is a notorious pirate from South Blue and the captain of the Kid Pirates. He is one of twelve pirates who are referred to as the Worst Generation.",
+                  "Role":"Kid Pirates Kid ",
+                  "Origin":"South Blue",
+                  "Bounty":"3,000,000,000",
+                  "Devil Fruit":"Magnet_Magnet Fruit",
+                  "Type":"Paramecia",
+                  "Ability":"manipulate magnetic forces. He can attract and/or repel metal objects as he pleases, and he can also create magnetic fields that allow him to arrange metal objects into various configurations and constructs.Haki User",
+                  "Haki":"Observation Haki, Armament Haki, Conqueror's Haki"
+              },
+              {
+                  "Name": "Killer",
+                  "image": "characters/killer.png",
+                  "Description":"Massacre Soldier Killer is a pirate from the South Blue and a combatant of the Kid Pirates. He is one of twelve pirates who are referred to as the Worst Generation. After the timeskip, his bounty has been raised from Beli.png162,000,000 to 200,000,000.",
+                  "Role":"Firstmate of Kid Pirates ",
+                  "Origin":"South Blue",
+                  "Bounty":"200,000,000",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Haki User",
+                  "Haki":"Observation Haki, Armament Haki"
+              },
+              {
+                  "Name": "Heat",
+                  "image": "characters/heat.png",
+                  "Description":"Heat is a member of the Kid Pirates.",
+                  "Role":"One of the Member in Kid Pirates",
+                  "Origin":"North Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Heat has the ability to breathe fire; how he does it has yet to be explained. Like the rest of the crew, he possesses a strong will,",
+                  "Haki":"No"
+              },
+              {
+                  "Name": "Wire",
+                  "image": "characters/wire.png",
+                  "Description":"Wire is a member of the Kid Pirates.",
+                  "Role":"One of the Member in Kid Pirates",
+                  "Origin":"South Blue",
+                  "Bounty":"Unknown",
+                  "Devil Fruit":"No",
+                  "Type":"No",
+                  "Ability":"Wire is strong enough to withstand the blast of Haki that Silvers Rayleigh used at the Human Auctioning House on Sabaody Archipelago.",
+                  "Haki":"No"
+              }
+          ]
+      }
+  ]
+}

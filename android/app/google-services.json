@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865115902205",
+    "project_id": "one-piece-ce85e",
+    "storage_bucket": "one-piece-ce85e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865115902205:android:4694fb2132acbb2b252e94",
+        "android_client_info": {
+          "package_name": "com.example.message_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865115902205-cgnfum8re7td9mn2h4cg1rllj3pbfi50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZaVb8MyTpNO0LK2pFY8hKPraAciIv1tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865115902205-cgnfum8re7td9mn2h4cg1rllj3pbfi50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
